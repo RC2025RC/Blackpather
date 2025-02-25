@@ -1,0 +1,75 @@
+html {
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(images/STOCK_MM8995_Panther_Rosettes_in_Low_Light_2x3.avif );
+}
+
+body {
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgba(21, 19, 19, 0.9);
+    padding: 10px 50px 10px 100px;
+    /* padding: TOP RIGHT BOTTOM LEFT */
+}
+
+.fixed-nav-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;    
+    background-color: rgba(26, 92, 46, 0.732);
+    box-shadow: 2px 2px 2px rgb(35, 35, 35);
+}
+
+h1 {
+    color: rgb(10, 133, 55);
+    font: bold 50px sans-serif;
+}
+
+h2 {
+    color: rgb(25, 161, 48);
+    font-family: sans-serif;
+}
+
+
+strong {
+    color: #247b22;
+}
+
+img {
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgba(12, 156, 63, 0.608);
+    
+    box-shadow: 5px 5px 5px 2px rgba(41, 35, 31, 1);
+    
+}
+
+.logo {
+    box-shadow: none;
+    border-color: rgb(245, 238, 238);
+}
+
+section {
+    margin-top: 80px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font: bold 14px "Arial Black", Gadget, sans-serif;
+}
+
+a:link {
+    color:white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: rgb(26, 24, 24);
+    font-size: 15px;
+}
