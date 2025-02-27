@@ -3,7 +3,7 @@ const Questions = [
         q: "Fill in the blank: Blackpanther's live _____.",
         a: [{text: "in the desert.", isCorrect: false},
             {text: "in the jungle.", isCorrect: false},
-            {text: "in the South and Southeast Asia.", isCorrect: true},
+            {text: "in the Southeast Asia.", isCorrect: true},
             {text: "in the Sea.", isCorrect: false},
            ]
     },
@@ -17,7 +17,7 @@ const Questions = [
     },
     {
         q: "Fill in the blank: Balckpanther's color eys _____.",
-        a: [{text: "golden yellow.", isCorrect: true},
+        a: [{text: "yellow.", isCorrect: true},
             {text: "gray.", isCorrect: false},
             {text: "blue.", isCorrect: false},
             {text: "green.", isCorrect: false},
@@ -26,7 +26,7 @@ const Questions = [
     {
         q: "Fill in the blank: Blackpanther's eat _____.",
         a: [{text: "frogs.", isCorrect: false},
-            {text: "fish and snack's.", isCorrect: true},
+            {text: "snack's.", isCorrect: true},
             {text: "lions.", isCorrect: false},
             {text: "deer.", isCorrect: false},
            ]
