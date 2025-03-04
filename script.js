@@ -26,7 +26,7 @@ const Questions = [
     {
         q: "Fill in the blank: Blackpanther's eat _____.",
         a: [{text: "frogs.", isCorrect: false},
-            {text: "snack's.", isCorrect: true},
+            {text: "snakes.", isCorrect: true},
             {text: "lions.", isCorrect: false},
             {text: "deer.", isCorrect: false},
            ]
