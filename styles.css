@@ -1,5 +1,5 @@
 html {
-    color: rgb(255, 255, 255);
+    color:rgb(68, 249, 89);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-image: url(images/STOCK_MM8995_Panther_Rosettes_in_Low_Light_2x3.avif );
 }
@@ -70,7 +70,7 @@ a:visited {
 }
 
 a:hover {
-    color: rgb(26, 24, 24);
+    color:white;
     font-size: 15px;
 }
 
