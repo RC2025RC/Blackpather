@@ -1,6 +1,6 @@
 const Questions = [
     {
-        q: "Fill in the blank: Blackpanther's live _____.",
+        q: "Fill in the blank : Blackpanther's live _____.",
         a: [{text: "in the desert.", isCorrect: false},
             {text: "in the jungle.", isCorrect: false},
             {text: "in the Southeast Asia.", isCorrect: true},
@@ -16,7 +16,7 @@ const Questions = [
            ]
     },
     {
-        q: "Fill in the blank: Balckpanther's color eys _____.",
+        q: "Fill in the blank: Balckpanther's color eyes _____.",
         a: [{text: "yellow.", isCorrect: true},
             {text: "gray.", isCorrect: false},
             {text: "blue.", isCorrect: false},
